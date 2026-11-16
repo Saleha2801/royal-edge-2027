@@ -8,7 +8,7 @@ It ranks the 10 most reliable batters and 10 most reliable bowlers under
 pressure, using 35,005 high-pressure deliveries from 867 IPL and T20I
 matches, and checks each player's IPL 2027 auction status.
 
-Live dashboard: https://github.com/Saleha2801/royal-edge-2027/
+https://saleha2801.github.io/royal-edge-2027/
 
 Status information verified 16 Nov 2026 and provisional until IPL
 franchise retention lists are published. Rankings are a historical
